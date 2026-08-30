@@ -50,7 +50,7 @@ To run this repository locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/panjetajyoti/Zetheta_TGSR_Project_1B.git
+git clone https://github.com/panjetajyoti/Zetheta_TGSR_Project_1B_Sector_Rotation.git
 cd Zetheta_TGSR_Project_1B_Sector_Rotation
 
 # Install dependencies
