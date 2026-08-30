@@ -51,7 +51,7 @@ To run this repository locally:
 ```bash
 # Clone the repository
 git clone https://github.com/panjetajyoti/Zetheta_TGSR_Project_1B.git
-cd Zetheta_TGSR_Project_1B
+cd Zetheta_TGSR_Project_1B_Sector_Rotation
 
 # Install dependencies
 pip install numpy pandas matplotlib torch yfinance
